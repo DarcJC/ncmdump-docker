@@ -1,0 +1,3 @@
+[submodule "netease-cloud-music-dl"]
+	path = netease-cloud-music-dl
+	url = https://github.com/codezjx/netease-cloud-music-dl.git
